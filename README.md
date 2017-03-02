@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Image compression using <a href="http://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm">Singular Value Decomposition</a></h1>
