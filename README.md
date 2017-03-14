@@ -6,10 +6,10 @@ Any matrix  A  can be decomposed to three matrices  <b>U</b>, <b>Σ</b> and <b>V
 this is called singular value decomposition. The columns of <b>U</b> and <b>V</b> are orthonormal and <b>Σ</b> is diagonal.
 </p>
 <h4>Original Image</h4>
-<img src="test.jpg" width="250px" height="250px">
+<img src="test.jpg" width="300px" height="250px">
 <br>
 <h4>Compressed Image</h4>
-<img src="compressed.jpg" width="250px" height="250px">
+<img src="compressed.jpg" width="300px" height="250px">
 <br>
 <h4>This program depends on the following Python libraries:</h4>
 <ul>
