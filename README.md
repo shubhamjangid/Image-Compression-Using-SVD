@@ -2,7 +2,7 @@
 <body>
 <h1>Image compression using <a href="http://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm">Singular Value Decomposition</a></h1>
 <p>
-Any matrix  AA  can be decomposed to three matrices  <b>U</b>, <b>Σ</b> and <b>V</b> such that  <b>A = UΣV</b> , 
+Any matrix  A  can be decomposed to three matrices  <b>U</b>, <b>Σ</b> and <b>V</b> such that  <b>A = UΣV</b> , 
 this is called singular value decomposition. The columns of <b>U</b> and <b>V</b> are orthonormal and <b>Σ</b> is diagonal.
 </p>
 <h4>Original Image</h4>
